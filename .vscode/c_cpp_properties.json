@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/geonwoo/pjt_ws/install/ros_study_msgs/include/**",
+        "/home/geonwoo/turtlebot3_ws/install/turtlebot3_fake_node/include/**",
+        "/home/geonwoo/turtlebot3_ws/install/turtlebot3_msgs/include/**",
+        "/home/geonwoo/turtlebot3_ws/install/turtlebot3_gazebo/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/geonwoo/pjt_ws/src/ros_study_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

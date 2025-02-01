@@ -1,0 +1,6 @@
+/home/leejeongmin/Desktop/pjt_ws/build/ros_study_msgs/rosidl_adapter/ros_study_msgs:msg/MyMsg.idl
+/home/leejeongmin/Desktop/pjt_ws/build/ros_study_msgs/rosidl_adapter/ros_study_msgs:msg/ArithmeticArgument.idl
+/home/leejeongmin/Desktop/pjt_ws/build/ros_study_msgs/rosidl_adapter/ros_study_msgs:srv/MySrv.idl
+/home/leejeongmin/Desktop/pjt_ws/build/ros_study_msgs/rosidl_adapter/ros_study_msgs:srv/ArithmeticOperator.idl
+/home/leejeongmin/Desktop/pjt_ws/build/ros_study_msgs/rosidl_adapter/ros_study_msgs:action/MyAction.idl
+/home/leejeongmin/Desktop/pjt_ws/build/ros_study_msgs/rosidl_adapter/ros_study_msgs:action/ArithmeticChecker.idl

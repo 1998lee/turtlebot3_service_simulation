@@ -1,0 +1,10 @@
+int32 a
+int32 b
+int32 c
+int32 tblno
+
+---
+int32 ordno
+int32 timer
+bool success
+string feedback

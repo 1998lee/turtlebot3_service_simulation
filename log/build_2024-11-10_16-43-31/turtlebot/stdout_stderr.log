@@ -1,0 +1,62 @@
+running egg_info
+creating ../../build/turtlebot/turtlebot.egg-info
+writing ../../build/turtlebot/turtlebot.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlebot/turtlebot.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlebot/turtlebot.egg-info/entry_points.txt
+writing requirements to ../../build/turtlebot/turtlebot.egg-info/requires.txt
+writing top-level names to ../../build/turtlebot/turtlebot.egg-info/top_level.txt
+writing manifest file '../../build/turtlebot/turtlebot.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtlebot/turtlebot.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlebot/turtlebot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build
+creating /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib
+creating /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot
+copying turtlebot/Order_client.py -> /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot
+copying turtlebot/gui_pyqt.py -> /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot
+copying turtlebot/pub_topic.py -> /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot
+copying turtlebot/Kitchen_server.py -> /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot
+copying turtlebot/Order_client copy 3.py -> /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot
+copying turtlebot/Kitchen_server copy.py -> /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot
+copying turtlebot/backup_service_server.py -> /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot
+copying turtlebot/__init__.py -> /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot
+copying turtlebot/sub_topic.py -> /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot
+running install
+running install_lib
+creating /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot
+copying /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot/Order_client.py -> /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot
+copying /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot/gui_pyqt.py -> /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot
+copying /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot/pub_topic.py -> /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot
+copying /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot/Kitchen_server.py -> /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot
+copying /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot/Order_client copy 3.py -> /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot
+copying /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot/Kitchen_server copy.py -> /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot
+copying /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot/backup_service_server.py -> /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot
+copying /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot/__init__.py -> /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot
+copying /home/leejeongmin/Desktop/pjt_ws/build/turtlebot/build/lib/turtlebot/sub_topic.py -> /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot
+byte-compiling /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot/Order_client.py to Order_client.cpython-310.pyc
+byte-compiling /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot/gui_pyqt.py to gui_pyqt.cpython-310.pyc
+byte-compiling /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot/pub_topic.py to pub_topic.cpython-310.pyc
+byte-compiling /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot/Kitchen_server.py to Kitchen_server.cpython-310.pyc
+byte-compiling /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot/Order_client copy 3.py to Order_client copy 3.cpython-310.pyc
+byte-compiling /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot/Kitchen_server copy.py to Kitchen_server copy.cpython-310.pyc
+byte-compiling /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot/backup_service_server.py to backup_service_server.cpython-310.pyc
+byte-compiling /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot/sub_topic.py to sub_topic.cpython-310.pyc
+running install_data
+creating /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/share/ament_index
+creating /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/share/ament_index/resource_index
+creating /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/share/ament_index/resource_index/packages
+copying resource/turtlebot -> /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/share/ament_index/resource_index/packages
+copying package.xml -> /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/share/turtlebot
+creating /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/share/turtlebot/launch
+creating /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/share/turtlebot/urdf
+running install_egg_info
+Copying ../../build/turtlebot/turtlebot.egg-info to /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/python3.10/site-packages/turtlebot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing pub_topic script to /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/turtlebot
+Installing send_goal script to /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/turtlebot
+Installing sub_topic script to /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/turtlebot
+Installing turtlebot_test script to /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/turtlebot
+Installing turtlebot_test1 script to /home/leejeongmin/Desktop/pjt_ws/install/turtlebot/lib/turtlebot
+writing list of installed files to '/home/leejeongmin/Desktop/pjt_ws/build/turtlebot/install.log'

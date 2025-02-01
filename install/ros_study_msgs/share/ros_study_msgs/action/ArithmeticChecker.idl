@@ -1,0 +1,20 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from ros_study_msgs/action/ArithmeticChecker.action
+// generated code does not contain a copyright notice
+
+
+module ros_study_msgs {
+  module action {
+    struct ArithmeticChecker_Goal {
+      float goal_sum;
+    };
+    struct ArithmeticChecker_Result {
+      sequence<string> all_formula;
+
+      float total_sum;
+    };
+    struct ArithmeticChecker_Feedback {
+      sequence<string> formula;
+    };
+  };
+};

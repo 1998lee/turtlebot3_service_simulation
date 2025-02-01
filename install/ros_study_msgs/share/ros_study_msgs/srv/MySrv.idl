@@ -1,0 +1,27 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from ros_study_msgs/srv/MySrv.srv
+// generated code does not contain a copyright notice
+
+
+module ros_study_msgs {
+  module srv {
+    struct MySrv_Request {
+      int32 a;
+
+      int32 b;
+
+      int32 c;
+
+      int32 tblno;
+    };
+    struct MySrv_Response {
+      int32 ordno;
+
+      int32 timer;
+
+      boolean success;
+
+      string feedback;
+    };
+  };
+};

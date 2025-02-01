@@ -1,0 +1,7 @@
+[console_scripts]
+pub_topic = turtlebot.pub_topic:main
+send_goal = turtlebot.send_goal:main
+sub_topic = turtlebot.sub_topic:main
+turtlebot_test = turtlebot.Order_client:main
+turtlebot_test1 = turtlebot.Kitchen_server:main
+

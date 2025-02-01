@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from ros_study_msgs/srv/ArithmeticOperator.srv
+// generated code does not contain a copyright notice
+
+
+module ros_study_msgs {
+  module srv {
+    module ArithmeticOperator_Request_Constants {
+      const int8 PLUS = 1;
+      const int8 MINUS = 2;
+      const int8 MULTIPLY = 3;
+      const int8 DIVISION = 4;
+    };
+    struct ArithmeticOperator_Request {
+      int8 arithmetic_operator;
+    };
+    struct ArithmeticOperator_Response {
+      float arithmetic_result;
+    };
+  };
+};

@@ -1,0 +1,11 @@
+{
+  "package_name": "ros_study_msgs",
+  "non_idl_tuples": [
+    "/home/leejeongmin/Desktop/pjt_ws/src/ros_study_msgs:msg/MyMsg.msg",
+    "/home/leejeongmin/Desktop/pjt_ws/src/ros_study_msgs:msg/ArithmeticArgument.msg",
+    "/home/leejeongmin/Desktop/pjt_ws/src/ros_study_msgs:srv/MySrv.srv",
+    "/home/leejeongmin/Desktop/pjt_ws/src/ros_study_msgs:srv/ArithmeticOperator.srv",
+    "/home/leejeongmin/Desktop/pjt_ws/src/ros_study_msgs:action/MyAction.action",
+    "/home/leejeongmin/Desktop/pjt_ws/src/ros_study_msgs:action/ArithmeticChecker.action"
+  ]
+}

@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from ros_study_msgs/action/MyAction.action
+// generated code does not contain a copyright notice
+
+
+module ros_study_msgs {
+  module action {
+    @verbatim (language="comment", text=
+      "Goal")
+    struct MyAction_Goal {
+      string location;
+
+      float wait_time;
+    };
+    struct MyAction_Result {
+      float res;
+    };
+    struct MyAction_Feedback {
+      sequence<string> str;
+    };
+  };
+};

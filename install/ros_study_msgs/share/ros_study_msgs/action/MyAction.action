@@ -1,0 +1,7 @@
+#Goal
+string location
+float32 wait_time
+---
+float32 res
+---
+string[] str
